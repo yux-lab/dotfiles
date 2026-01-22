@@ -1,0 +1,18 @@
+{
+  "attachmentFolderPath": "./images",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "spellcheck": false
+}
