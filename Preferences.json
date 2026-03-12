@@ -1,0 +1,184 @@
+{
+  "AppConfigs": {
+    "TypeConfigs": {
+      "DirectoryOpus": {},
+      "WindowsExplorer": {},
+      "FileDialog": {},
+      "FolderDialog": {},
+      "Desktop": {},
+      "TotalCommander": {},
+      "FreeCommander": {},
+      "XYplorer": {},
+      "xplorer2": {},
+      "Bandizip": {},
+      "AutoCAD": {},
+      "Explzh": {},
+      "Files": {},
+      "OneCommander": {},
+      "WinRAR.ExtractDialog": {},
+      "WPS.FileDialog": {}
+    },
+    "PathConfigs": {}
+  },
+  "Menus": {
+    "Favorites": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "DiskSearch": {
+    "FolderPriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "FileNamePriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "SearchFilter": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "FileSearchWindow": {
+    "Columns": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": [
+        {
+          "Id": "FileName",
+          "UpdatedProperties": {
+            "Width": 200
+          }
+        },
+        {
+          "Id": "Path",
+          "UpdatedProperties": {
+            "Width": 400
+          }
+        },
+        {
+          "Id": "DateModified",
+          "UpdatedProperties": {
+            "Width": 200
+          }
+        }
+      ]
+    },
+    "WindowWidth": 1000,
+    "WindowHeight": 720,
+    "PreviewWidth": 300,
+    "SideBarWidth": 225
+  },
+  "Commands": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "WebSearch": {
+    "Items": {
+      "Deletions": [
+        "dd896809-2af4-405b-834f-45816615e3e3",
+        "b36cf1bb-5527-42d8-bf91-d034bcbf057b",
+        "5ac62036-62aa-49d3-866b-d041bc7b1b76",
+        "4ed886fb-1df0-4fd0-abc1-810fc180e647",
+        "5014b42a-884d-40d3-835d-69079dd9fc51",
+        "95147e79-6274-4127-98bb-09d9ffa2a39a",
+        "610a486d-0028-4739-8eb6-50f5247c918f",
+        "2db0261a-1114-4c8d-8cc8-62a89aeb1a35",
+        "455e1dc4-5e38-4b00-85da-d0bf46c68f4f",
+        "1744aa0c-751a-495f-aac5-6910e7406229"
+      ],
+      "Moves": [],
+      "Insertions": [
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "qwen",
+            "Url": "https://chat.qwen.ai/",
+            "Title": "qwen"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "bl",
+            "Url": "https://search.bilibili.com/all",
+            "Title": "blbl"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "chatgpt",
+            "Url": "https://chatgpt.com/",
+            "Title": "ChatGPT"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "xhs",
+            "Url": "https://www.xiaohongshu.com/explore",
+            "Title": "xiaohongshu",
+            "SuggestionProvider": "Bing"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "github",
+            "Url": "https://github.com/",
+            "Title": "Github"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "zh",
+            "Url": "https://www.zhihu.com/people/qian-ran-53-1",
+            "Title": "zhihu"
+          }
+        }
+      ],
+      "Updates": []
+    }
+  },
+  "Actions": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "AutoUpdate": {},
+  "Settings": {
+    "Hotkey.PressShowListaryHotkeyAgainBehavior": "hide",
+    "Tutorial.ShowMainV3": false,
+    "Listary5.SettingsImported": true
+  },
+  "Extensions": {
+    "Extensions": {
+      "1a63ea9d-bf25-431f-96e3-17b80027efab": {}
+    }
+  }
+}
