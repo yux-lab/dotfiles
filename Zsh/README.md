@@ -8,6 +8,9 @@ Refer to `~/.bashrc`
 if [ -t 1 ]; then
   exec zsh
 fi
+
+export LANG=zh_CN.UTF-8
+export LC_ALL=zh_CN.UTF-8
 ```
 
 3. **Install Oh My Zsh**
@@ -40,4 +43,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 # Edit configuration
 vim ~/.zshrc
+```
+
+## Conda
+```
+conda init zsh
+source ~/.bashrc
 ```
